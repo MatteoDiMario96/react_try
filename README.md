@@ -4,6 +4,3 @@
 
 - i create a title Hello world with two buttons components
 
--- bash
-eila
---
