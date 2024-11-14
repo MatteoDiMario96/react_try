@@ -18,20 +18,20 @@
 1. Clona la repository:
    ```bash
    git clone https://github.com/MatteoDiMario96/react_try
-```
+
 2. Vai nella directory del progetto:
     ```bash
     cd react_try
-```
+
 3. Installa le dipendenze:
     ```bash
     npm install
-```
+
 
 4. Vai nella directory del progetto:
     ```bash
     npm run dev
-```
+
 
 ## Utilizzo
 1. Apri l’applicazione nel browser.
